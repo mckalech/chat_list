@@ -1,0 +1,19 @@
+body{
+	padding:0;
+	background: linear-gradient(to left bottom, #b3d1d8, #77bb2c);
+}
+.fullwidth{
+	display:block;
+	width:100%;
+}
+#content{
+	width:500px;
+	margin: 100px auto;
+
+	a{
+		text-decoration:none;
+	}
+}
+.b-settings{
+	padding: 20px;
+}
